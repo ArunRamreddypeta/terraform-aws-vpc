@@ -25,7 +25,10 @@ terraform apply
 ## 👤 Author
 
 **Arun Ramreddypeta**  
-DevOps Engineer  
+DevOps / SRE Engineer  
 
-🔗 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- AWS | Terraform | Kubernetes | CI/CD  
+- Experience in automation and infrastructure provisioning  
+
+🔗 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN  
 🔗 GitHub: https://github.com/ArunRamreddypeta
